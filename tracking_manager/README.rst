@@ -42,28 +42,29 @@ order_line in a sale order).
 Usage
 =====
 
--  In setting > models: select a model
--  Check "Active" under Custom Tracking.
--  You have two options - 1) manually configure tracked fields one by
-   one, or 2) determine tracked fields based on a specific domain.
--  For 1) manually configure tracked fields one by one
+- In setting > models: select a model
+- Check "Active" under Custom Tracking.
+- You have two options - 1) manually configure tracked fields one by
+  one, or 2) determine tracked fields based on a specific domain.
+- For 1) manually configure tracked fields one by one
 
-   -  Click on Tracked Fields smart button, and select/unselect Custom
-      Tracking.
+  - Click on Tracked Fields smart button, and select/unselect Custom
+    Tracking.
 
--  For 2) determine tracked fields based on a specific domain
+- For 2) determine tracked fields based on a specific domain
 
-   -  Select "Automatic configuration", and then set the domain
-      accordingly.
-   -  Click "Update" for the domain to take effect.
+  - Select "Automatic configuration", and then set the domain
+    accordingly.
+  - Click "Update" for the domain to take effect.
 
-.. image:: https://raw.githubusercontent.com/OCA/server-tools/18.0/tracking_manager/static/description/model_view.png
-   :alt: image
+|image|
 
--  Then select the fields to track
+- Then select the fields to track
 
-.. image:: https://raw.githubusercontent.com/OCA/server-tools/18.0/tracking_manager/static/description/fields.png
-   :alt: image
+|image1|
+
+.. |image| image:: https://raw.githubusercontent.com/OCA/server-tools/18.0/tracking_manager/static/description/model_view.png
+.. |image1| image:: https://raw.githubusercontent.com/OCA/server-tools/18.0/tracking_manager/static/description/fields.png
 
 Bug Tracker
 ===========
@@ -86,9 +87,9 @@ Authors
 Contributors
 ------------
 
--  Kévin Roche <kevin.roche@akretion.com>
--  Sébastien BEAU <sebastien.beau@akretion.com>
--  Christopher Rogos <crogos@gmail.com>
+- Kévin Roche <kevin.roche@akretion.com>
+- Sébastien BEAU <sebastien.beau@akretion.com>
+- Christopher Rogos <crogos@gmail.com>
 
 Maintainers
 -----------
